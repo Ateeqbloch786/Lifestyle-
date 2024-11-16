@@ -41,6 +41,15 @@
     Your posts should reflect Australian culture on social media if they have to resonate with the audience. Australian people appreciate genuineness, humorousness, and localised references. For example, using the Australian native language, mentioning big sporting events such as the Melbourne cup or some materials that highlight local communities can help you connect better with your customers.
 </p>
 <h3>
+    Travel and animals sites.
+</h3>
+<p>
+    This <a href="https://generallyinfo.com"><strong>https://generallyinfo.com</strong></a> website is providing travel and animals related contents.&nbsp;
+</p>
+<p>
+    This website <a href="https://thegrowgarden.com"><strong>https://thegrowgarden.com</strong></a> is providing only garden related content.
+</p>
+<h3>
     <span style="color:#434343;"><strong>Section 2: Constructing Unambiguous Objectives</strong></span>
 </h3>
 <p>
