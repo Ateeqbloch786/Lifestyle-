@@ -1,3 +1,11 @@
+<p>
+    &nbsp;
+</p>
+<p>
+    <br>
+    <a href="https://kemotech.co.uk/"><strong>KemoTech</strong></a> is a technology innovator dedicated to revolutionizing industries with advanced digital solutions. It provides Machine Learning, IT Consulting, Mobile App Development, Network Security, Smart Automation, Digital Marketing, AR/VR Solutions, CRM Software, ERP Systems, and Big Data Analytics. With a focus on efficiency and innovation, KemoTech helps businesses stay ahead in the evolving tech landscape.
+</p>
+
 <div style='text-align: start;color: rgb(0, 0, 0);font-size: medium;font-family: ";'>
     <div aria-labelledby="docs-ml-promotion-aria-label" style="font-family: Arial, Helvetica, sans-serif;">
         <div style='text-align: start;color: rgb(0, 0, 0);font-size: medium;font-family: ";'>
